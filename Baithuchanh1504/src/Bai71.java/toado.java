@@ -1,4 +1,4 @@
-package Bai71.java;
+
 
 public class toado {
     private int x;

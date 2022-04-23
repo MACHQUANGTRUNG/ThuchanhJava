@@ -1,4 +1,4 @@
-package Bai71.java;
+
     public class hinhtron {
         private final float PI = 3.14f;
         private float bankinh;
@@ -20,4 +20,4 @@ package Bai71.java;
         }
     }
     
-}
+
